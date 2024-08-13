@@ -1,2 +1,0 @@
-# bedragoksu.github.io
-portfolio
