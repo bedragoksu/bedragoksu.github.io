@@ -1,7 +1,7 @@
 {
   "name": "bedragoksu-portfolio",
   "version": "0.1.0",
-  "homepage": "https://bedragoksu.github.io/",
+  "homepage": "https://bedragoksu.github.io/bedragoksu.github.io",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
